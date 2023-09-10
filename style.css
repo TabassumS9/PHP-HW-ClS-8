@@ -1,0 +1,30 @@
+header{
+    background-color: #151A32;
+}
+header .text{
+    color: white;
+    padding-top: 15px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Roboto;
+    font-weight: 800;
+}
+.navbar{
+    color: white;
+}
+.navbar .navbar-brand{
+    font-weight: 800;
+}
+.navbar a{
+    font-family: Roboto;
+    font-weight: 600;
+    color: black;
+}
+.navbar li{
+    font-size: 16px;
+    padding-left:30px;
+    
+}
+.navbar ul li :hover{
+    color: red;
+}
